@@ -1,0 +1,17 @@
+#divChart {
+    width: 75%;
+    height: 75%;
+    margin: 0 auto;
+    display: block;
+    padding: 20px;
+    border: 1px solid #000;
+    background-color: #f0f0f0;
+    overflow: hidden;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0ff;
+}

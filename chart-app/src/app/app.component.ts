@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
-// import { RouterOutlet } from '@angular/router';
+import { RouterOutlet } from '@angular/router';
 import { MyChartComponent } from './Components/my-chart/my-chart.component';
-import { HttpClient } from '@angular/common/http';
 import { MyChart2Component } from './Components/my-chart2/my-chart2.component'; 
 
 @Component({
